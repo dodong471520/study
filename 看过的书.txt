@@ -1,0 +1,33 @@
+com技术内幕
+计算机操作系统
+Boost程序库完全开发指南
+[提高C.性能的编程技术].左飞.扫描版
+Python基础教程(第2版)_带目录
+深度探索C++对象模型 PDF中文清晰版
+Practical Vim
+Learn Vimscript the Hard Way
+Twisted.Network.Programming.Essentials
+深入了解软件构造系统
+Autotools_A Practitioner-'s Guide to GNU Autoconf, Automake, and Libtool
+算法 第4版
+Lua程序设计_第二版_中文
+穿越计算机的迷雾
+intel汇编语言程序设计
+UNIX环境高级编程(第三版)
+Sed与awk第三版
+C++设计新思维泛型编程与设计模式之应用
+[Effective.C.中文版]
+More+Effective+C++
+c++内存管理技术内幕
+Libevent源码分析
+用TCP-IP进行网际互联[卷1-原理,协议与结构]
+unix网络编程卷1：套接字联网api（第3版）
+UNIX网络编程_卷2_进程间通信[www.TopSage.com]
+GNU+makefile中文手册
+readinglua.pdf
+[Perl语言编程(第3版)].（美）沃尔.扫描版.pdf
+Autotools_ A Practioner's Guid - Calcote, John_5554.pdf
+程序员的自我修养--链接、装载与库
+Go语言程序设计(中文)
+Git版本控制管理 第2版
+windows pe权威指南
